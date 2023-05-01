@@ -1,10 +1,10 @@
 ## Welcome to JeffDevsLife blog learning journey
 
-In this article, we will be going through how to create a React app supported by multiple language. We will also go through how to automatically set the preference application language when we are revisiting in the next time.
+In this article, we will be going through how to create a React app supported by multiple language. We will also go through how to automatically set the preference application language when we are revisiting the app in the next time.
 
 ### To Start
 
-You may clone the starter folder and follow along with the blog content in here. What you have to do is fill in the necessary code right below the commented lines.
+You may clone the starter folder and follow along with the blog post [here](https://jeffdevslife.com/p/multilingual-react-app-with-i18next-typescript/). What you have to do is fill in the necessary code right below the commented lines.
 
 ### Final Outcome
 
